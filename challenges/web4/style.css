@@ -1,0 +1,35 @@
+body{
+	background-color: #212121;
+}
+#msgBox{
+	width:80%;
+	margin-top: 12%;
+	margin-right:10%;
+	margin-left: 10%;
+	height: 35%;
+	color: #0FDD17;
+	text-align: center;;
+	text-decoration: none;
+	font-size: 300%;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#link{
+	width:80%;
+	margin-top: 12%;
+	margin-right:10%;
+	margin-left: 10%;
+	height: 15%;
+	color: #FFFFFF;
+	text-align: center;;
+	text-decoration: none;
+	font-size: 150%;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+a:link, a:visited, a:active {
+	text-decoration:none;
+	color:#ffffff;
+}
+a:hover{
+	text-decoration:none;
+	color:#757575;
+}
